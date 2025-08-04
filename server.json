@@ -6,7 +6,7 @@
   "latest_version": "1.0.0",
   "update_url": "https://github.com/DevilHUnter1080/TrackIT/releases/download/v1.0.0/TrackIT.apk",
   
-  "show_message": true,
+  "show_message": false,
   "message_title": "Happy Independence Day! 🇮🇳",
   "message_body": "Wishing all students a very happy Independence Day. Enjoy the holiday!"
 }
