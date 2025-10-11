@@ -6,7 +6,7 @@
   "latest_version": "1.0.0",
   "update_url": "https://github.com/DevilHUnter1080/TrackIT/releases/download/v1.0.0/TrackIT.apk",
   
-  "show_message": true,
-  "message_title": "Warning ❗️❗️",
-  "message_body": "The 28/09/2025 sunday Attendance is directly added into overall percentage instead of register so the percentage rating varies compared to Ecap. So student closed to 75❗️ 🙏 please use ecap to original percentage"
+  "show_message": false,
+  "message_title": "",
+  "message_body": ""
 }
