@@ -1,1 +1,14 @@
+{
+  "minimum_required_version": "1.0.0",
+  "maintenance_mode": false,
+  "messages": [
+    {
+      "id": "onboarding_welcome_v1",
+      "type": "info",
+      "title": "Welcome to TrackIT!",
+      "body": "Thank you for downloading TrackIT! We're glad you're here. Track your attendance, timetable, marks, and fees — all in one place.",
+      "active": true
+    }
+  ]
+}
 
