@@ -2,11 +2,11 @@
   "api_base_url": "https://vercel-go-two-eta.vercel.app",
   "minimum_required_version": "1.0.0",
   "maintenance_mode": false,
-  
-  "latest_version": "1.0.0",
-  "update_url": "https://github.com/DevilHUnter1080/TrackIT/releases/download/v1.0.0/TrackIT.apk",
-  
-  "show_message": false,
-  "message_title": "Dear Students, Wishing You a Merry Christmas 🎄",
-  "message_body": "May this Christmas bring joy, peace, and happiness to you and your family. Enjoy the festive season! 🎁✨"
+
+  "latest_version": "2.0.0",
+  "update_url": "https://github.com/vijay-2155/TrackIT/releases/download/v2.0.0/TrackIT.apk",
+
+  "show_message": true,
+  "message_title": "New Update Available! 🚀",
+  "message_body": "TrackIT v2.0.0 is here! Head over to your Profile to update the app and enjoy the latest features."
 }
